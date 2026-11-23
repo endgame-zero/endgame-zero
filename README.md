@@ -1,17 +1,20 @@
 # 👋 Hi there!
 
-### Full-Stack Engineer • AI/ML Engineer • Cloud & Distributed Systems
+### Senior Data Engineer • AI/ML Engineer • Cloud & Distributed Systems
 
-I’m a **Full-Stack & AI/ML Engineer with 7+ years of experience** building scalable web applications, production-grade AI systems, and cloud-native platforms.
+I’m a **Data Engineer & AI/ML Engineer with 7+ years of experience** building scalable web applications, production-grade AI systems, and cloud-native platforms.
 
 I enjoy working across the entire stack — from designing high-performance APIs and distributed backend services to building intelligent systems with **LLMs, RAG, NLP, predictive modeling, and deep learning**.
 
 ## 🚀 What I Do
 
-* 🧩 **Full-Stack Development** — React, Next.js, Node.js, TypeScript, JavaScript
+* 🧩 **Data DevelopmentPlatform** — Databricks (Lakehouse, Delta Lake, Unity Catalog, Delta Live Tables, MLflow), Snowflake, BigQuery,
+Redshift
+**Languages**: Python, PySpark, SQL (advanced tuning and optimisation), Bash/Shell
 * 🤖 **AI / ML** — Python, PyTorch, TensorFlow, Scikit-learn, XGBoost
 * 🧠 **Generative AI** — LLM applications, RAG, embeddings, NLP, prompt engineering
 * ⚡ **Backend & APIs** — REST, GraphQL, FastAPI, microservices, high-performance architectures
+**Orchestration & Transformation:** Airflow, Dagster, dbt, Azure Data Factory, Databricks Workflows
 * ☁️ **Cloud & Infrastructure** — AWS, GCP, Azure, Docker, Kubernetes, Terraform
 * 🗄️ **Data** — PostgreSQL, MySQL, MongoDB, Redis, Spark, Hadoop
 * 🔄 **MLOps & DevOps** — MLflow, Kubeflow, CI/CD, Jenkins, GitLab, monitoring & deployment
